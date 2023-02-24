@@ -1,0 +1,5 @@
+package com.senacniteroi.helloworld;
+
+public class HelloWorldController {
+
+}
